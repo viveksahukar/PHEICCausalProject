@@ -1,4 +1,4 @@
-# PHEICCausalProject
+# PHEIC Causal Project
 This is a repository on the causal analysis of the impact PHEIC having on China's economic outlook
 
 
