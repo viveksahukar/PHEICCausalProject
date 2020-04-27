@@ -1,0 +1,442 @@
+Company,Date,StockPrice,Revenue
+Luckin Coffee,0,37.12,1
+Luckin Coffee,0,39.61,1
+Luckin Coffee,0,37.87,1
+Luckin Coffee,1,36.4,1
+Luckin Coffee,1,32.49,1
+Luckin Coffee,1,31.35,1
+Luckin Coffee,1,36.24,1
+Alibaba,0,205.47,0.94
+Alibaba,0,210.23,0.94
+Alibaba,0,212.02,0.94
+Alibaba,1,208.58,0.94
+Alibaba,1,206.59,0.94
+Alibaba,1,213.1,0.94
+Alibaba,1,222.88,0.94
+China Eastern Airline,0,22.4,0.99
+China Eastern Airline,0,22.84,0.99
+China Eastern Airline,0,23.29,0.99
+China Eastern Airline,1,23.03,0.99
+China Eastern Airline,1,22.79,0.99
+China Eastern Airline,1,23.16,0.99
+China Eastern Airline,1,23.6,0.99
+Disney,0,135.9,0.11
+Disney,0,138.37,0.11
+Disney,0,136.06,0.11
+Disney,1,137.81,0.11
+Disney,1,138.31,0.11
+Disney,1,141.32,0.11
+Disney,1,144.73,0.11
+NIKE,0,100.24,0.14
+NIKE,0,100.41,0.14
+NIKE,0,99.84,0.14
+NIKE,1,98.19,0.14
+NIKE,1,96.3,0.14
+NIKE,1,99.27,0.14
+NIKE,1,101.38,0.14
+YUM CHINA,0,41.92,1
+YUM CHINA,0,45.05,1
+YUM CHINA,0,45.01,1
+YUM CHINA,1,44,1
+YUM CHINA,1,43.07,1
+YUM CHINA,1,43.12,1
+YUM CHINA,1,44.31,1
+Bank of China,0,0.4,0.99
+Bank of China,0,0.39,0.99
+Bank of China,0,0.4,0.99
+Bank of China,1,0.395,0.99
+Bank of China,1,0.3905,0.99
+Bank of China,1,0.3751,0.99
+Bank of China,1,0.405,0.99
+China Mengniu Diary,0,41.9,0.98
+China Mengniu Diary,0,41.9,0.98
+China Mengniu Diary,0,41.9,0.98
+China Mengniu Diary,1,37.98,0.98
+China Mengniu Diary,1,37.98,0.98
+China Mengniu Diary,1,37.98,0.98
+China Mengniu Diary,1,38.93,0.98
+P&G,0,125.69,0.09
+P&G,0,126.03,0.09
+P&G,0,125.06,0.09
+P&G,1,125.59,0.09
+P&G,1,124.62,0.09
+P&G,1,125.11,0.09
+P&G,1,125.66,0.09
+Lenovo,0,0.70975,0.38
+Lenovo,0,0.7034,0.38
+Lenovo,0,0.7155,0.38
+Lenovo,1,0.665,0.38
+Lenovo,1,0.6525,0.38
+Lenovo,1,0.6555,0.38
+Lenovo,1,0.7,0.38
+Apple,0,308.95,0.15
+Apple,0,317.69,0.15
+Apple,0,324.34,0.15
+Apple,1,323.87,0.15
+Apple,1,309.51,0.15
+Apple,1,308.66,0.15
+Apple,1,318.85,0.15
+Netflix,0,342.88,0
+Netflix,0,348.52,0
+Netflix,0,343.16,0
+Netflix,1,347.74,0
+Netflix,1,345.09,0
+Netflix,1,358,0
+Netflix,1,369.01,0
+Starbucks,0,88.73,0.1
+Starbucks,0,88.6,0.1
+Starbucks,0,86.72,0.1
+Starbucks,1,85.84,0.1
+Starbucks,1,84.83,0.1
+Starbucks,1,86.01,0.1
+Starbucks,1,88.38,0.1
+Nvidia,0,240.2,0.25
+Nvidia,0,247.97,0.25
+Nvidia,0,245.54,0.25
+Nvidia,1,245.81,0.25
+Nvidia,1,236.43,0.25
+Nvidia,1,240.33,0.25
+Nvidia,1,247.13,0.25
+Microsoft,0,162.28,0.02
+Microsoft,0,165.46,0.02
+Microsoft,0,168.04,0.02
+Microsoft,1,172.78,0.02
+Microsoft,1,170.23,0.02
+Microsoft,1,174.38,0.02
+Microsoft,1,180.12,0.02
+Southwest Airlines,0,56.25,0
+Southwest Airlines,0,57.6,0
+Southwest Airlines,0,56.89,0
+Southwest Airlines,1,55.83,0
+Southwest Airlines,1,54.98,0
+Southwest Airlines,1,55.22,0
+Southwest Airlines,1,55.68,0
+Vail Resorts,0,238.49,0
+Vail Resorts,0,236.64,0
+Vail Resorts,0,236.75,0
+Vail Resorts,1,237.09,0
+Vail Resorts,1,234.51,0
+Vail Resorts,1,235.31,0
+Vail Resorts,1,238.34,0
+Estee Lauder,0,196.99,0.17
+Estee Lauder,0,197.11,0.17
+Estee Lauder,0,198.73,0.17
+Estee Lauder,1,198.67,0.17
+Estee Lauder,1,195.16,0.17
+Estee Lauder,1,196.2,0.17
+Estee Lauder,1,200.42,0.17
+Hyatt,0,83.61,0.1
+Hyatt,0,84.76,0.1
+Hyatt,0,85.34,0.1
+Hyatt,1,85.92,0.1
+Hyatt,1,84.54,0.1
+Hyatt,1,85.95,0.1
+Hyatt,1,88.03,0.1
+Qualcomm,0,87.05,0.48
+Qualcomm,0,89.15,0.48
+Qualcomm,0,88.23,0.48
+Qualcomm,1,87.78,0.48
+Qualcomm,1,85.31,0.48
+Qualcomm,1,86.48,0.48
+Qualcomm,1,88.93,0.48
+General Electric,0,11.44,0.2
+General Electric,0,11.73,0.2
+General Electric,0,12.94,0.2
+General Electric,1,12.73,0.2
+General Electric,1,12.45,0.2
+General Electric,1,12.26,0.2
+General Electric,1,12.58,0.2
+McDonald,0,209.34,0.2
+McDonald,0,210.39,0.2
+McDonald,0,214.44,0.2
+McDonald,1,216.18,0.2
+McDonald,1,213.97,0.2
+McDonald,1,215.18,0.2
+McDonald,1,214.62,0.2
+AMD,0,49.26,0.26
+AMD,0,50.53,0.26
+AMD,0,47.51,0.26
+AMD,1,48.78,0.26
+AMD,1,47,0.26
+AMD,1,48.02,0.26
+AMD,1,49.45,0.26
+Intel,0,65.69,0.28
+Intel,0,67.31,0.28
+Intel,0,66.33,0.28
+Intel,1,66.47,0.28
+Intel,1,63.93,0.28
+Intel,1,64.42,0.28
+Intel,1,65.46,0.28
+General Motors,0,33.41,0.4
+General Motors,0,33.64,0.4
+General Motors,0,33.6,0.4
+General Motors,1,33.33,0.4
+General Motors,1,33.39,0.4
+General Motors,1,33.72,0.4
+General Motors,1,34.37,0.4
+Delta Airlines,0,56.83,0.04
+Delta Airlines,0,57.48,0.04
+Delta Airlines,0,56.65,0.04
+Delta Airlines,1,57.1,0.04
+Delta Airlines,1,55.74,0.04
+Delta Airlines,1,56.04,0.04
+Delta Airlines,1,57.93,0.04
+Boeing,0,316.6,0.07
+Boeing,0,316.56,0.07
+Boeing,0,322.02,0.07
+Boeing,1,323.3,0.07
+Boeing,1,318.27,0.07
+Boeing,1,316,0.07
+Boeing,1,317.94,0.07
+Alphabet,0,1431.73,0.07
+Alphabet,0,1450.5,0.07
+Alphabet,0,1456.7,0.07
+Alphabet,1,1454.25,0.07
+Alphabet,1,1432.78,0.07
+Alphabet,1,1482.6,0.07
+Alphabet,1,1445.41,0.07
+Coca Cola,0,57.48,0.09
+Coca Cola,0,57.01,0.09
+Coca Cola,0,57.01,0.09
+Coca Cola,1,58.86,0.09
+Coca Cola,1,58.4,0.09
+Coca Cola,1,58.58,0.09
+Coca Cola,1,58.84,0.09
+Facebook,0,214.87,0.1
+Facebook,0,217.79,0.1
+Facebook,0,223.23,0.1
+Facebook,1,209.53,0.1
+Facebook,1,201.91,0.1
+Facebook,1,204.19,0.1
+Facebook,1,209.83,0.1
+IBM,0,138.62,0.14
+IBM,0,139.55,0.14
+IBM,0,137.69,0.14
+IBM,1,136.77,0.14
+IBM,1,143.73,0.14
+IBM,1,146.27,0.14
+IBM,1,149.11,0.14
+Procter & Gamble ,0,125.69,0.08
+Procter & Gamble ,0,126.03,0.08
+Procter & Gamble ,0,125.06,0.08
+Procter & Gamble ,1,125.95,0.08
+Procter & Gamble ,1,124.62,0.08
+Procter & Gamble ,1,125.11,0.08
+Procter & Gamble ,1,125.66,0.08
+Western Digital,0,66.66,0.224
+Western Digital,0,68.41,0.224
+Western Digital,0,66.76,0.224
+Western Digital,1,66.96,0.224
+Western Digital,1,65.5,0.224
+Western Digital,1,67.24,0.224
+Western Digital,1,68.43,0.224
+3M,0,175.63,0.103
+3M,0,165.58,0.103
+3M,0,162,0.103
+3M,1,162.51,0.103
+3M,1,158.66,0.103
+3M,1,156.59,0.103
+3M,1,157.24,0.103
+Petro China,0,0.487,0.65
+Petro China,0,0.487,0.65
+Petro China,0,0.473,0.65
+Petro China,1,0.4393,0.65
+Petro China,1,0.453,0.65
+Petro China,1,0.438,0.65
+Petro China,1,0.452,0.65
+Micron Technology,0,55.41,0.51117016
+Micron Technology,0,56.47,0.51117016
+Micron Technology,0,55.3,0.51117016
+Micron Technology,1,55.03,0.51117016
+Micron Technology,1,53.09,0.51117016
+Micron Technology,1,53.78,0.51117016
+Micron Technology,1,55.5,0.51117016
+Broadcom,0,309.03,0.536743026
+Broadcom,0,318.31,0.536743026
+Broadcom,0,317.51,0.536743026
+Broadcom,1,315.2,0.536743026
+Broadcom,1,305.16,0.536743026
+Broadcom,1,305.23,0.536743026
+Broadcom,1,311.6,0.536743026
+Cisco,0,47.47,0.1593584
+Cisco,0,47.77,0.1593584
+Cisco,0,47.05,0.1593584
+Cisco,1,47.24,0.1593584
+Cisco,1,45.97,0.1593584
+Cisco,1,46.53,0.1593584
+Cisco,1,47.62,0.1593584
+Texas Instruments,0,126.31,0.441146982
+Texas Instruments,0,128.04,0.441146982
+Texas Instruments,0,125.49,0.441146982
+Texas Instruments,1,124.42,0.441146982
+Texas Instruments,1,120.65,0.441146982
+Texas Instruments,1,123.4,0.441146982
+Texas Instruments,1,126.47,0.441146982
+SPTJF,0,0.26,1
+SPTJF,0,0.26,1
+SPTJF,0,0.26,1
+SPTJF,1,0.26,1
+SPTJF,1,0.26,1
+SPTJF,1,0.26,1
+SPTJF,1,0.26,1
+Xiaomi Corp,0,1.6,0.72
+Xiaomi Corp,0,1.64,0.72
+Xiaomi Corp,0,1.61,0.72
+Xiaomi Corp,1,1.53,0.72
+Xiaomi Corp,1,1.48,0.72
+Xiaomi Corp,1,1.57,0.72
+Xiaomi Corp,1,1.64,0.72
+Air china,0,0.85,0.67
+Air china,0,0.85,0.67
+Air china,0,0.85,0.67
+Air china,1,0.85,0.67
+Air china,1,0.85,0.67
+Air china,1,0.85,0.67
+Air china,1,0.87,0.67
+Skyworks ,0,116.88,0.827
+Skyworks ,0,119.79,0.827
+Skyworks ,0,117.89,0.827
+Skyworks ,1,116.23,0.827
+Skyworks ,1,113.15,0.827
+Skyworks ,1,115.03,0.827
+Skyworks ,1,117.96,0.827
+Applied Materials,0,59.05,0.189
+Applied Materials,0,60.19,0.189
+Applied Materials,0,59.82,0.189
+Applied Materials,1,60.25,0.189
+Applied Materials,1,57.99,0.189
+Applied Materials,1,59.72,0.189
+Applied Materials,1,63.01,0.189
+TE Connectivity,0,96.84,0.184
+TE Connectivity,0,98.1,0.184
+TE Connectivity,0,98.07,0.184
+TE Connectivity,1,95.82,0.184
+TE Connectivity,1,92.18,0.184
+TE Connectivity,1,94,0.184
+TE Connectivity,1,95.33,0.184
+Corning inc,0,28.56,0.22
+Corning inc,0,28,0.22
+Corning inc,0,28.35,0.22
+Corning inc,1,27.69,0.22
+Corning inc,1,26.69,0.22
+Corning inc,1,26.91,0.22
+Corning inc,1,27.58,0.22
+Abbott Laboratories,0,89.59,0.078
+Abbott Laboratories,0,89.54,0.078
+Abbott Laboratories,0,89.14,0.078
+Abbott Laboratories,1,89.16,0.078
+Abbott Laboratories,1,87.14,0.078
+Abbott Laboratories,1,87.06,0.078
+Abbott Laboratories,1,88.23,0.078
+Cummins Inc,0,164.77,0.105
+Cummins Inc,0,166.08,0.105
+Cummins Inc,0,165.69,0.105
+Cummins Inc,1,166.1,0.105
+Cummins Inc,1,159.97,0.105
+Cummins Inc,1,162.89,0.105
+Cummins Inc,1,161,0.105
+Amphenol Corp,0,102.63,0.295
+Amphenol Corp,0,103.41,0.295
+Amphenol Corp,0,103.42,0.295
+Amphenol Corp,1,101.87,0.295
+Amphenol Corp,1,99.47,0.295
+Amphenol Corp,1,99.95,0.295
+Amphenol Corp,1,103.84,0.295
+Qorvo ,0,109.98,0.62
+Qorvo ,0,113.56,0.62
+Qorvo ,0,112.57,0.62
+Qorvo ,1,111.79,0.62
+Qorvo ,1,105.86,0.62
+Qorvo ,1,107.56,0.62
+Qorvo ,1,107.89,0.62
+IPG Photonics,0,134.67,0.441
+IPG Photonics,0,136.69,0.441
+IPG Photonics,0,130.07,0.441
+IPG Photonics,1,131.13,0.441
+IPG Photonics,1,127.67,0.441
+IPG Photonics,1,140.29,0.441
+IPG Photonics,1,140.29,0.441
+Advanced Micro Devices,0,49.26,0.328
+Advanced Micro Devices,0,50.53,0.328
+Advanced Micro Devices,0,47.51,0.328
+Advanced Micro Devices,1,48.78,0.328
+Advanced Micro Devices,1,47,0.328
+Advanced Micro Devices,1,48.02,0.328
+Advanced Micro Devices,1,49.45,0.328
+Microchip Technology Inc,0,102.98,0.32
+Microchip Technology Inc,0,104.2,0.32
+Microchip Technology Inc,0,102.46,0.32
+Microchip Technology Inc,1,101.56,0.32
+Microchip Technology Inc,1,97.48,0.32
+Microchip Technology Inc,1,97.55,0.32
+Microchip Technology Inc,1,101.71,0.32
+Xilinx Inc,0,97,0.254
+Xilinx Inc,0,98.61,0.254
+Xilinx Inc,0,88.06,0.254
+Xilinx Inc,1,87.2,0.254
+Xilinx Inc,1,84.48,0.254
+Xilinx Inc,1,85.05,0.254
+Xilinx Inc,1,85.78,0.254
+Agilent Technologies Inc,0,86.56,0.21
+Agilent Technologies Inc,0,87.18,0.21
+Agilent Technologies Inc,0,87.24,0.21
+Agilent Technologies Inc,1,84.38,0.21
+Agilent Technologies Inc,1,82.56,0.21
+Agilent Technologies Inc,1,82.15,0.21
+Agilent Technologies Inc,1,83.52,0.21
+Avery Dennison ,0,127.84,0.197
+Avery Dennison ,0,129.21,0.197
+Avery Dennison ,0,136.23,0.197
+Avery Dennison ,1,136.11,0.197
+Avery Dennison ,1,131.24,0.197
+Avery Dennison ,1,133.98,0.197
+Avery Dennison ,1,136.85,0.197
+A. O. Smith,0,43.81,0.35
+A. O. Smith,0,45.49,0.35
+A. O. Smith,0,44.31,0.35
+A. O. Smith,1,43.45,0.35
+A. O. Smith,1,42.69,0.35
+A. O. Smith,1,42.28,0.35
+A. O. Smith,1,42.79,0.35
+Wynn Resorts,0,123.89,0.73
+Wynn Resorts,0,124.97,0.73
+Wynn Resorts,0,123.85,0.73
+Wynn Resorts,1,126.62,0.73
+Wynn Resorts,1,126.16,0.73
+Wynn Resorts,1,128.58,0.73
+Wynn Resorts,1,132.7,0.73
+Acacia Communications ,0,68.73,0.3
+Acacia Communications ,0,68.51,0.3
+Acacia Communications ,0,68.66,0.3
+Acacia Communications ,1,68.83,0.3
+Acacia Communications ,1,68.55,0.3
+Acacia Communications ,1,68.55,0.3
+Acacia Communications ,1,68.845,0.3
+Aptiv PLC,0,88.6,0.263
+Aptiv PLC,0,89.64,0.263
+Aptiv PLC,0,89.88,0.263
+Aptiv PLC,1,87.68,0.263
+Aptiv PLC,1,84.79,0.263
+Aptiv PLC,1,86.72,0.263
+Aptiv PLC,1,90.51,0.263
+MGM Resorts,0,30.35,0.203
+MGM Resorts,0,30.97,0.203
+MGM Resorts,0,31.27,0.203
+MGM Resorts,1,31.3,0.203
+MGM Resorts,1,31.06,0.203
+MGM Resorts,1,31.21,0.203
+MGM Resorts,1,32.25,0.203
+Mettler-Toledo International,0,799.88,0.161
+Mettler-Toledo International,0,799.95,0.161
+Mettler-Toledo International,0,802.62,0.161
+Mettler-Toledo International,1,777,0.161
+Mettler-Toledo International,1,757.18,0.161
+Mettler-Toledo International,1,758.06,0.161
+Mettler-Toledo International,1,768,0.161
+Analog Devices,0,112.21,0.165
+Analog Devices,0,114.31,0.165
+Analog Devices,0,113.23,0.165
+Analog Devices,1,112.37,0.165
+Analog Devices,1,109.75,0.165
+Analog Devices,1,110,0.165
+Analog Devices,1,112.46,0.165
