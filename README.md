@@ -34,6 +34,6 @@ the stock price of companies that have a large percentage of revenue from the
 infected country?
 
 Therefore, we would use a difference-in-differences model. We will select the companies 3 days before and
-after the issuance on PHEIC for Covid-19. The date for issuance of PHEIC is January
-30 and that time COVID-19 was in China. H
+after the issuance on PHEIC for Covid-19 - the date for issuance of PHEIC is January
+30.
 
